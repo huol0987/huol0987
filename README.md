@@ -1,4 +1,4 @@
-name: 2024 IU H．E．R．WORLD TOUR CONCERT IN SEOUL
+name: Melon Ticket
 on:
   schedule:
     - cron: '*/5 * * * *' # Every 5 minutes
